@@ -1,0 +1,24 @@
+{
+  "name": "phaser-plugin-isometric",
+  "version": "0.9.0",
+  "main": "dist/phaser-plugin-isometric.js",
+  "scripts": [
+    "dist/phaser-plugin-isometric.js"
+  ],
+  "ignore": [
+  ".DS_Store",
+  ".git",
+  ".gitignore",
+  ".npmignore",
+  ".travis.yml",
+  "Makefile",
+  "bin",
+  "component.json",
+  "index.js",
+  "lib",
+  "node_modules",
+  "package.json",
+  "src",
+  "test"
+  ]
+}
